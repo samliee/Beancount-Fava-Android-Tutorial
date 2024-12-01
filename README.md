@@ -1,6 +1,8 @@
 # Beancount-Fava-Android-Tutorial
 
-Install the fava and beancount tools on the Android.
+Fava is a web interface for the double-entry bookkeeping software Beancount with a focus on features and usability. <https://github.com/beancount/fava>
+
+This tutorial aim to install fava on Android.
 
 ## Prepare
 
