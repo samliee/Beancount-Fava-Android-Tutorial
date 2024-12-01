@@ -52,6 +52,14 @@ Error: No file specified
 
 Now the Installtion is complete. Congratulation!
 
+## Troubleshooting 
+
+remove the pip cache and try again.
+
+```bash
+pip cache purge 
+```
+
 ## My environment
 
 ### termux-info
