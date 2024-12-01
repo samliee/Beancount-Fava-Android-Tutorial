@@ -1,5 +1,7 @@
 # Beancount-Fava-Android-Tutorial
 
+Install the fava and beancount tools on the Android.
+
 ## Prepare
 
 - Android Phone
