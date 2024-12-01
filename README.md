@@ -14,7 +14,7 @@ This tutorial aim to install fava on Android.
 
 ### Step 1
 
-Install python and rust
+Open the Termux. Enter the following command to install python and rust
 
 ```bash
 pkg install python rust
